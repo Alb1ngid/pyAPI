@@ -1,0 +1,6 @@
+смотри открываешь терминал и пишешь:
+pip install requests
+либо
+pip install -r reqirements.txt
+
+установится библиотека и можно запускать conAPI.py
